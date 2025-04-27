@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+	<name>imglab dataset</name>
+	<comment>Created by imglab tool.</comment>
+	<images>
+		<!-- <image file='masked01.jpg' width='470' height='677'>
+			<box top='198' left='226' width='150' height='190'>
+				<label>person2</label>
+			</box>
+		</image>
+		<image file='masked02.jpg'  width='318' height='605'>
+			<box top='182' left='106' width='125' height='165'>
+				<label>person3</label>
+			</box>
+		</image> -->
+		<image file='masked03.jpg' width='1280' height='960'>
+			<box top='370' left='257' width='136' height='151'>
+				<label>person2</label>
+			</box>
+			<box top='396' left='617' width='122' height='135'>
+				<label>person3</label>
+			</box>
+			<box top='281' left='846' width='254' height='269'>
+				<label>person1</label>
+			</box>
+		</image>
+		<image file='masked04.jpg' width='1280' height='960'>
+			<box top='414' left='274' width='151' height='175'>
+				<label>person2</label>
+			</box>
+			<box top='396' left='584' width='130' height='156'>
+				<label>person3</label>
+			</box>
+			<box top='285' left='836' width='270' height='258'>
+				<label>person1</label>
+			</box>
+		</image>
+		<image file='masked05.jpg' width='1280' height='960'>
+			<box top='391' left='278' width='152' height='182'>
+				<label>person2</label>
+			</box>
+			<box top='385' left='596' width='121' height='148'>
+				<label>person3</label>
+			</box>
+			<box top='255' left='830' width='270' height='269'>
+				<label>person1</label>
+			</box>
+		</image>
+		<image file='masked06.jpg' width='1280' height='960'>
+			<box top='364' left='295' width='158' height='188'>
+				<label>person2</label>
+			</box>
+			<box top='352' left='642' width='123' height='169'>
+				<label>person3</label>
+			</box>
+			<box top='257' left='863' width='255' height='259'>
+				<label>person1</label>
+			</box>
+		</image>
+	</images>
+</dataset>
